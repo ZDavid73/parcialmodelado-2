@@ -3,7 +3,7 @@ const products = [
         name: "Pokemon sobre",
         price: "25,000 COP",
         img: "https://i.ytimg.com/vi/7rXJfjbtqCI/hqdefault.jpg",
-        link: "./pages/modelo10.html"
+        link: "./pages/modelo11.html"
     },
     {
         name: "Bad Badtz-Maru x Red Eyes Black Dragon",
@@ -63,7 +63,7 @@ const products = [
         name: "Pochacco X time magician",
         price: "20,000 COP",
         img: "https://i.ebayimg.com/images/g/nkEAAOSw1uVmEGg7/s-l1200.jpg",
-        link: "./pages/modelo9.html"
+        link: "./pages/modelo10.html"
     },
 ];
 
